@@ -1591,7 +1591,7 @@ a {
 }
 .cid-s9HbCGcqIU .card-title,
 .cid-s9HbCGcqIU .card-box {
-  text-align: left;
+  text-align: center;
 }
 .cid-s9HbG5kpJL {
   padding-top: 6rem;
@@ -2171,6 +2171,76 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-s9MASwkBov {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mexicali04-1163x658.jpg");
+}
+.cid-s9MASwkBov .mbr-text,
+.cid-s9MASwkBov .mbr-section-btn {
+  color: #232323;
+}
+.cid-s9MASwkBov .card-title,
+.cid-s9MASwkBov .card-box {
+  color: #ffffff;
+}
+.cid-s9MASwkBov .mbr-text,
+.cid-s9MASwkBov .link-wrap {
+  color: #ffffff;
+}
+.cid-s9MDtkaQPx {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-s9MDtkaQPx .item:focus,
+.cid-s9MDtkaQPx span:focus {
+  outline: none;
+}
+.cid-s9MDtkaQPx .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-s9MDtkaQPx .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-s9MDtkaQPx .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-s9MDtkaQPx .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s9MDtkaQPx .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-s9MDtkaQPx .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-s9MDtkaQPx .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-s9MDtkaQPx .mbr-section-title {
+  color: #ffffff;
+}
+.cid-s9MDtkaQPx .mbr-text,
+.cid-s9MDtkaQPx .mbr-section-btn {
+  text-align: center;
+}
+.cid-s9MDtkaQPx .item-title {
+  text-align: center;
+}
+.cid-s9MDtkaQPx .item-subtitle {
+  text-align: left;
 }
 .cid-s9H138wYYE {
   z-index: 1000;
